@@ -20,7 +20,7 @@ Heyguys::App.controllers :welcome do
   # end
   
   get :index do
-
+    render 'index'
   end
 
 end
